@@ -2,7 +2,7 @@
   "name": "fashion-store",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://YOUR_USERNAME.github.io/fashion-ecommerce-react",
+  "homepage": "https://Annukapri.github.io/demo",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -33,5 +33,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }
